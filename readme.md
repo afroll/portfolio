@@ -1,5 +1,5 @@
 # My Portfolio
-This is my first Portfolio
+This is my first Portfolio on GitHub
 
 ## This is my pet project
 
